@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">HW511</string>
-</resources>
+    <string name="app_name">HW5.1.1</string>
+    <string name="toast_text">Длина цитаты %d символов</string>
+    <string name="citates_from">цитаты из Futurama</string>
+    <string name="icon">icon</string>
+    <string name="loaded">Загружено %d цитат</string>
+    <string name="file_saved">Файл %s сохранен!</string>
+    <string name="file_save_error">Ошибка сохранения файла %s!</string>
+
+
+    <string-array name="citates">
+        <item>Он напрашивается на сгибание!</item>
+        <item>Вдруг моя жизнь — выдумка чьего-то больного воображения?</item>
+        <item>Давайте смотреть реально. Комедия — мёртвый жанр, а трагедия — это смешно!</item>
+        <item>Итак, я богат. Пока, неудачники! Я вас всегда ненавидел.</item>
+        <item>Мне так стыдно! Хочу, чтобы все умерли!</item>
+        <item>Позёры! Я ненавидел Макаревича ещё до того, как это стало модным.</item>
+        <item>Укуси мой блестящий металлический зад!</item>
+        <item>Я не так знаменит, чтобы давить людей безнаказанно.</item>
+        <item>Вы слышали новость — спасти землю и так далее и тому подобное…</item>
+        <item>Пока я командую, любая миссия суицидальная.</item>
+        <item>Я построю свой лунапарк! С блэк-джеком и шлюхами! Да и к черту сам парк…</item>
+</string-array>
+
+    </resources>
